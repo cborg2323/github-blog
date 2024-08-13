@@ -21,3 +21,5 @@ https://www.youtube.com/watch?v=9wmSjF6ozjk
 
 ## Mais informações
 https://efficient-sloth-d85.notion.site/Desafio-03-Github-Blog-13593953670346908462ddc648d42cf1
+
+Feito com 💜 por Rocketseat 👋 
